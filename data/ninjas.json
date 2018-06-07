@@ -1,0 +1,37 @@
+[{
+	"name": "Meet",
+	"belt": "black",
+	"rate": 1500,
+	"available": true,
+	"thumb": "content/img/team-1.jpg"
+}, {
+	"name": "Yoshi",
+	"belt": "violet",
+	"rate": 2700,
+	"available": true,
+	"thumb": "content/img/team-2.jpg"
+}, {
+	"name": "Shaun",
+	"belt": "orange",
+	"rate": 1900,
+	"available": true,
+	"thumb": "content/img/team-3.jpg"
+}, {
+	"name": "Ansu",
+	"belt": "brown",
+	"rate": 1700,
+	"available": true,
+	"thumb": "content/img/team-4.jpg"
+}, {
+	"name": "Ryu",
+	"belt": "purple",
+	"rate": 2300,
+	"available": true,
+	"thumb": "content/img/team-5.jpg"
+}, {
+	"name": "Jay",
+	"belt": "blue",
+	"rate": 1100,
+	"available": false,
+	"thumb": "content/img/team-1.jpg"
+}]
