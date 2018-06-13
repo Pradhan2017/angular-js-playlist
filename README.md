@@ -1,5 +1,6 @@
 # angular-js-playlist
 
 https://pradhan2017.github.io/angular-js-playlist/#!/directory
+<br/>
 or
-After clone start atom server
+start atom server After clone
